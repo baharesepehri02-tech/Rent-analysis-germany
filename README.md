@@ -1,5 +1,5 @@
 # Rent-analysis-germany
-# Rent Affordability Analysis in Germany 🇩🇪
+# Rent Affordability Analysis in Germany
 This project was developed as part of my Data Analysis training program, focusing on real-world data analysis using Python, SQL, and Power BI.
 
 ## 📊 Overview
@@ -20,6 +20,9 @@ This projectanalyse  housing affordability in Germany by comparing rent, income,
 - Identification of regions with high rent pressure
 - Relationship between income and housing costs
 - Regional differences in affordability across Germany
+- Berlin, Hamburg, and Baden-Württemberg exhibit significantly higher rent burden compared to other regions.
+- These findings highlight strong regional disparities in housing affordability, particularly in major urban and economically active areas.
+-  Urban areas tend to have higher rent-to-income ratios compared to less populated regions
 
 ## 📂 Project Structure
 - `dashboard.pbix` → Power BI dashboard
