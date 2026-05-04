@@ -10,6 +10,11 @@ This projectanalyse  housing affordability in Germany by comparing rent, income,
 - Python (Pandas, NumPy for data cleaning and analysis)
 - SQL (data querying and transformation)
 
+ ## 📊 Power BI Dashboard
+The interactive dashboard was developed using Power BI to analyze rent affordability across Germany.
+It includes key metrics such as rent burden, income comparison, and regional differences.
+Download the file from this repository to explore the dashboard.
+
 ## 📌 Key Analysis
 - Rent per square meter (€/m²) by state
 - Income vs rent comparison
