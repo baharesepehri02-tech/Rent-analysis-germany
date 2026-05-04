@@ -38,7 +38,11 @@ Download the file from this repository to explore the dashboard.
 
 - Berlin, Hamburg, and Baden-Württemberg exhibit significantly higher rent burden compared to other regions  
 - Strong regional disparities in housing affordability across Germany  
-- Urban areas tend to have higher rent-to-income ratios compared to less populated regions  
+- Urban areas tend to have higher rent-to-income ratios compared to less populated regions
+-  Analysis of the relationship between rent and income, highlighting the rent-to-income ratio as a key affordability indicator
+- Investigation of the impact of housing construction (new dwellings) on rent levels
+- In large cities like Hamburg, high construction activity does not necessarily lead to lower rent pressure.
+- Despite increased housing supply, rent burden remains high, suggesting strong demand and structural imbalances in urban housing markets.
 
 ---
 
