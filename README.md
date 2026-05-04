@@ -29,6 +29,17 @@ This projectanalyse  housing affordability in Germany by comparing rent, income,
 ## 🎯 Goal
 To support data-driven insights for understanding housing affordability and regional differences in Germany.
 
+## 👥 Contribution
+
+This project was developed as part of a group project.
+
+My contribution:
+- Development of Power BI dashboard
+- Data visualization and KPI design
+- Analysis of rent burden indicators
+
+Other parts (data preprocessing, ETL, etc.) were developed by team members.
+
 ---
 
 # 🇩🇪 Analyse der Wohnkostenbelastung in Deutschland
